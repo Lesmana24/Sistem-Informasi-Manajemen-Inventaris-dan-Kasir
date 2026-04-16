@@ -84,14 +84,16 @@ Aplikasi *Client-Side React* Anda seharusnya dapat langsung diakses melalui pera
 
 ```text
 📦 proyek-kios-bunga
+ ┣ 📂 screenshots          # File gambar dokumentasi proyek
  ┣ 📂 Backend              # Source code API Server (Node.js/Express)
- ┣ 📂 src                  # Source code Frontend (React.js)
- ┃ ┣ 📂 assets             # File aset statis lokal
- ┃ ┣ 📜 App.jsx            # Entry komponen utama UI dari Dashboard & Kasir
- ┃ ┣ 📜 index.css          # Setup direktif & konfigurasi Tailwind CSS v4
- ┃ ┗ 📜 main.jsx           # Setup konfigurasi Vite (Mount root DOM React)
- ┣ 📜 package.json         # Konfigurasi dependensi NPM & metadata proyek
- ┗ 📜 vite.config.js       # Aturan alias & *bundling* Vite JS
+ ┗ 📂 log-kios-bunga       # Source code Frontend (React.js)
+   ┣ 📂 src                # Source code komponen React
+   ┃ ┣ 📂 assets           # File aset statis lokal
+   ┃ ┣ 📜 App.jsx          # Entry komponen utama UI dari Dashboard & Kasir
+   ┃ ┣ 📜 index.css        # Setup direktif & konfigurasi Tailwind CSS v4
+   ┃ ┗ 📜 main.jsx         # Setup konfigurasi Vite (Mount root DOM React)
+   ┣ 📜 package.json       # Konfigurasi dependensi NPM & metadata proyek
+   ┗ 📜 vite.config.js     # Aturan alias & *bundling* Vite JS
 ```
 
 ---
