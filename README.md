@@ -22,13 +22,11 @@ Sistem Informasi Manajemen Inventaris dan Kasir berbasis web yang dirancang khus
 
 | Dashboard & Analitik | Sistem Kasir (POS) |
 | :---: | :---: |
-| ![Dashboard UI](/screenshots/dashboard.png) | ![Kasir UI](/screenshots/kasir.png) |
+| ![Dashboard UI](/screenshots/reports.png) | ![Kasir UI](/screenshots/dashboard.png) |
 
 | Pop-up Checkout | Mode Gelap (Dark Mode) |
 | :---: | :---: |
-| ![Pop-up Success](/screenshots/success-modal.png) | ![Dark Mode UI](/screenshots/dark-mode.png) |
-
-*(Catatan: Anda dapat menaruh file gambar ke dalam sebuah folder bernama `/screenshots/` di luar direktori src untuk menampilkan dokumentasi dari proyek Anda di repositori Github/Gitlab).*
+| ![Pop-up Success](/screenshots/popup.png) | ![Dark Mode UI](/screenshots/darkmode.png) |
 
 ## 🛠️ Prasyarat (Prerequisites)
 
